@@ -1,0 +1,27 @@
+.badge {
+    background-color: tomato;
+    width:25px;
+    height:25px;
+    border-radius: 15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-weight: 600;
+    left:15px;
+    bottom:15px;
+}
+.badge_N {
+    background-color: tomato;
+    width:17px;
+    height:17px;
+    border-radius: 50%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-weight: 600;
+    margin-left: 8px;
+    /* bottom:15px; */
+    font-size: 10px;
+}
